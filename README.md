@@ -14,5 +14,6 @@
 - [CPUs Are Out of Order - Computerphile](https://www.youtube.com/watch?v=_qvOlL8nhN4)
 - [Computer Speeds - Computerphile](https://www.youtube.com/watch?v=0UnFN7yyMaA)
 - [Multithreading Code - Computerphile](https://www.youtube.com/watch?v=7ENFeb-J75k)
+- [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
 
 
