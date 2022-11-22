@@ -17,6 +17,7 @@
 - [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
 - [OS Context Switching - Computerphile](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
 - [Multiple Processor Systems - Computerphile](https://www.youtube.com/watch?v=3RvkfuXUv1c)
+- [What Happens When I Press a Key? - Computerphile](https://www.youtube.com/watch?v=ewE8b7zzej0)
 
 ## OS
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
