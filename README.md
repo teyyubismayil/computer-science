@@ -16,6 +16,7 @@
 - [Multithreading Code - Computerphile](https://www.youtube.com/watch?v=7ENFeb-J75k)
 - [Multi Programming - Computerphile](https://www.youtube.com/watch?v=MB0yDMQj1lU)
 - [OS Context Switching - Computerphile](https://www.youtube.com/watch?v=DKmBRl8j3Ak)
+- [Multiple Processor Systems - Computerphile](https://www.youtube.com/watch?v=3RvkfuXUv1c)
 
 ## OS
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
