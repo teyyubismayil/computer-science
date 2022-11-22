@@ -19,3 +19,7 @@
 
 ## OS
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
+
+## Programming
+- [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+- [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
