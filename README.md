@@ -22,7 +22,7 @@
     - [How Software Deals with Key Presses - Computerphile](https://www.youtube.com/watch?v=AcZrSn48X4o)
     - [Additional Processors - Computerphile](https://www.youtube.com/watch?v=CDpL9wOQcus)
 - ### Articles
-    - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/ch)
+    - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/cheatsheet)
 
 ## OS
 - [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
