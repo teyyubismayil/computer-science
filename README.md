@@ -21,6 +21,7 @@
     - [What Happens When I Press a Key? - Computerphile](https://www.youtube.com/watch?v=ewE8b7zzej0)
     - [How Software Deals with Key Presses - Computerphile](https://www.youtube.com/watch?v=AcZrSn48X4o)
     - [Additional Processors - Computerphile](https://www.youtube.com/watch?v=CDpL9wOQcus)
+    - [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
 - ### Articles
     - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/cheatsheet)
 
