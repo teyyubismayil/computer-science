@@ -32,3 +32,6 @@
 - [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 - [Asynchronous I/O In C#](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+
+## Heap
+- [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
