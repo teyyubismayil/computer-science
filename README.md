@@ -1,7 +1,13 @@
 # Computer science
 
-## Memory
+## Computer architecture
+- ### Videos
+- ### Articles
+    - [Von Neumann architecture - Wiki](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+    - [Harvard architecture - Wiki](https://en.wikipedia.org/wiki/Harvard_architecture)
+    - [Modified Harvard architecture - Wiki](https://en.wikipedia.org/wiki/Modified_Harvard_architecture)
 
+## Memory
 - [How Computer Memory Works - Computerphile](https://www.youtube.com/watch?v=XETZoRYdtkw)
 - [Flip Flops, Latches & Memory Details - Computerphile](https://www.youtube.com/watch?v=-Ecf7lb4aZ0)
 - [Addressing Memory (Pt1) - Computerphile](https://www.youtube.com/watch?v=-N5pDcfNzqo)
@@ -24,10 +30,15 @@
     - [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
     - [Apple M1 Ultra & NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 - ### Articles
+    - [Shared memory - Wiki](https://en.wikipedia.org/wiki/Shared_memory)
+    - [Non-uniform memory access - Wiki](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
     - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/cheatsheet)
 
 ## OS
-- [CPU modes](https://en.wikipedia.org/wiki/CPU_modes)
+- [CPU modes - Wiki](https://en.wikipedia.org/wiki/CPU_modes)
+
+## Storage
+- [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
 
 ## Programming
 - [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
@@ -36,4 +47,6 @@
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
-- [Video Streaming Problems - Computerphile](youtube.com/watch?v=bSTEIWmI3z8) - about network
+- [System bus - Wiki](https://en.wikipedia.org/wiki/System_bus)
+- [Branch predictor - Wiki](https://en.wikipedia.org/wiki/Branch_predictor)
+- [System on a chip - Wiki](https://en.wikipedia.org/wiki/System_on_a_chip)
