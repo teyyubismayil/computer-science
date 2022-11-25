@@ -22,6 +22,7 @@
     - [How Software Deals with Key Presses - Computerphile](https://www.youtube.com/watch?v=AcZrSn48X4o)
     - [Additional Processors - Computerphile](https://www.youtube.com/watch?v=CDpL9wOQcus)
     - [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
+    - [Apple M1 Ultra & NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
 - ### Articles
     - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/cheatsheet)
 
