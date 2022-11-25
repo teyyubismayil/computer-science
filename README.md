@@ -36,3 +36,4 @@
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
+- [Video Streaming Problems - Computerphile](youtube.com/watch?v=bSTEIWmI3z8) - about network
