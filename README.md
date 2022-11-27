@@ -2,6 +2,7 @@
 
 ## Computer architecture
 - ### Videos
+    - [Von Neumann Architecture - Computerphile](https://www.youtube.com/watch?v=Ml3-kVYLNr8)
 - ### Articles
     - [Von Neumann architecture - Wiki](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
     - [Harvard architecture - Wiki](https://en.wikipedia.org/wiki/Harvard_architecture)
