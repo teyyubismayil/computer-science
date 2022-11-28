@@ -31,6 +31,7 @@
     - [What's Virtual Memory? - Computerphile](https://www.youtube.com/watch?v=5lFnKYCZT5o)
     - [Apple M1 Ultra & NUMA - Computerphile](https://www.youtube.com/watch?v=yG1m7oGZC48)
     - [Discussing System On Chip (SoC) - Computerphile](https://www.youtube.com/watch?v=0MLaYe3y0BU)
+    - [CPU vs GPU (What's the Difference?) - Computerphile](https://www.youtube.com/watch?v=_cyVDoyI6NE)
 - ### Articles
     - [Shared memory - Wiki](https://en.wikipedia.org/wiki/Shared_memory)
     - [Non-uniform memory access - Wiki](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
