@@ -1,5 +1,8 @@
 # Computer science
 
+## Basics
+- [Floating Point Numbers - Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
+
 ## Computer architecture
 - ### Videos
     - [Von Neumann Architecture - Computerphile](https://www.youtube.com/watch?v=Ml3-kVYLNr8)
