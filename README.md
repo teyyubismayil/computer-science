@@ -3,6 +3,7 @@
 ## Basics
 - [Floating Point Numbers - Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
 - [Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile](https://www.youtube.com/watch?v=f4ekifyijIg)
+- [Floating Point Numbers (Part2: Fp Addition) - Computerphile](https://www.youtube.com/watch?v=782QWNOD_Z0)
 
 ## Computer architecture
 - ### Videos
