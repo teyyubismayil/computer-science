@@ -58,3 +58,4 @@
 - [System bus - Wiki](https://en.wikipedia.org/wiki/System_bus)
 - [Branch predictor - Wiki](https://en.wikipedia.org/wiki/Branch_predictor)
 - [System on a chip - Wiki](https://en.wikipedia.org/wiki/System_on_a_chip)
+- [Microservices • Martin Fowler • YOW! 2016](https://www.youtube.com/watch?v=z8qhToMtYRc)
