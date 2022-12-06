@@ -59,3 +59,4 @@
 - [Branch predictor - Wiki](https://en.wikipedia.org/wiki/Branch_predictor)
 - [System on a chip - Wiki](https://en.wikipedia.org/wiki/System_on_a_chip)
 - [Microservices • Martin Fowler • YOW! 2016](https://www.youtube.com/watch?v=z8qhToMtYRc)
+- [Infrastructure As Code • Martin Fowler • YOW! 2016](https://www.youtube.com/watch?v=5AGEv0sAw6g)
