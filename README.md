@@ -8,7 +8,6 @@
     - [Floating Point Numbers - Computerphile](https://www.youtube.com/watch?v=PZRI1IfStY0)
     - [Floating Point Numbers (Part1: Fp vs Fixed) - Computerphile](https://www.youtube.com/watch?v=f4ekifyijIg)
     - [Floating Point Numbers (Part2: Fp Addition) - Computerphile](https://www.youtube.com/watch?v=782QWNOD_Z0)
-    - [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 - ### Articles
     - [Von Neumann architecture - Wiki](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
     - [Harvard architecture - Wiki](https://en.wikipedia.org/wiki/Harvard_architecture)
@@ -50,9 +49,12 @@
 - [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
 
 ## Programming
-- [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
-- [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
-- [Asynchronous I/O In C#](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+- ### Videos
+    - [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
+- ### Articles
+    - [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+    - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+    - [Asynchronous I/O In C#](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
