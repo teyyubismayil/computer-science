@@ -50,6 +50,7 @@
 
 ## Programming
 - ### Videos
+    - [Reverse Polish Notation and The Stack - Computerphile](https://www.youtube.com/watch?v=7ha78yWRDlE)
     - [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 - ### Articles
     - [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
