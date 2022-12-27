@@ -47,7 +47,10 @@
 - [CPU modes - Wiki](https://en.wikipedia.org/wiki/CPU_modes)
 
 ## Storage
-- [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
+- ### Videos
+    - [Zero Size Files - Computerphile](https://www.youtube.com/watch?v=kiTTAbeqQKY)
+- ### Articles
+    - [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
 
 ## Programming
 - ### Videos
