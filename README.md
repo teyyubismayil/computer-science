@@ -48,6 +48,7 @@
 
 ## Storage
 - ### Videos
+    - [How Do Hard Drives Work?](https://www.youtube.com/watch?v=wI0upu9eVcw)
     - [Zero Size Files - Computerphile](https://www.youtube.com/watch?v=kiTTAbeqQKY)
 - ### Articles
     - [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
