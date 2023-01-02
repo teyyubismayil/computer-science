@@ -18,6 +18,7 @@
 - [Flip Flops, Latches & Memory Details - Computerphile](https://www.youtube.com/watch?v=-Ecf7lb4aZ0)
 - [Addressing Memory (Pt1) - Computerphile](https://www.youtube.com/watch?v=-N5pDcfNzqo)
 - [Total Recall (Memory Addressing Pt2) - Computerphile](https://www.youtube.com/watch?v=qI2K4VinkT8)
+- [Why My Computer Wants to Forget (How Dynamic Memory Works) - Computerphile](https://www.youtube.com/watch?v=0A1e8eceIsY)
 
 ## CPU
 - ### Videos
