@@ -66,6 +66,10 @@
     - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
     - [Asynchronous I/O In C#](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 
+## Distributed systems
+- ### Videos
+    - [CAP Theorem Simplified | System Design Fundamentals](https://www.youtube.com/watch?v=BHqjEjzAicA)
+
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
 - [System bus - Wiki](https://en.wikipedia.org/wiki/System_bus)
