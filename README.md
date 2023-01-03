@@ -51,6 +51,7 @@
 - ### Videos
     - [How Do Hard Drives Work?](https://www.youtube.com/watch?v=wI0upu9eVcw)
     - [What is Disk Fragmentation? Disk Fragmentation and Defragmentation Explained.](https://www.youtube.com/watch?v=BKsVM89ZhRk)
+    - [Magnetic Media (Floppies and Tapes) - Computerphile](https://www.youtube.com/watch?v=cWKo_dMUw7M)
     - [Zero Size Files - Computerphile](https://www.youtube.com/watch?v=kiTTAbeqQKY)
 - ### Articles
     - [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
