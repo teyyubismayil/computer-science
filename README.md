@@ -42,6 +42,7 @@
 - ### Articles
     - [Shared memory - Wiki](https://en.wikipedia.org/wiki/Shared_memory)
     - [Non-uniform memory access - Wiki](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
+    - [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)
     - [Computer Architecture Cheatsheets - Codecademy](https://www.codecademy.com/learn/computer-architecture/modules/intro-to-computer-architecture/cheatsheet)
 
 ## OS
