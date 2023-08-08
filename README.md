@@ -68,9 +68,17 @@
     - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
     - [Asynchronous I/O In C#](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
 
+## DSA
+- ### Articles
+    - [Count–min sketch](https://en.wikipedia.org/wiki/Count%E2%80%93min_sketch)
+    - [HyperLogLog: A Simple but Powerful Algorithm for Data Scientists](https://chengweihu.com/hyperloglog/)
+
 ## Distributed systems
 - ### Videos
     - [CAP Theorem Simplified | System Design Fundamentals](https://www.youtube.com/watch?v=BHqjEjzAicA)
+- ### Articles
+    - [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444)
+    - [THE LIMITS OF THE SAGA PATTERN](https://www.ufried.com/blog/limits_of_saga_pattern)
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
