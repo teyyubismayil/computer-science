@@ -80,6 +80,10 @@
     - [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444)
     - [THE LIMITS OF THE SAGA PATTERN](https://www.ufried.com/blog/limits_of_saga_pattern)
 
+## Databases
+- ### Videos
+    - [Stop using COUNT(id) to count rows](https://www.youtube.com/watch?v=H6juZ8c_Nu8)
+
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
 - [System bus - Wiki](https://en.wikipedia.org/wiki/System_bus)
