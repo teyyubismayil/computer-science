@@ -63,6 +63,7 @@
     - [What on Earth is Recursion? - Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
     - [Programming Loops vs Recursion - Computerphile](https://www.youtube.com/watch?v=HXNhEYqFo0o)
     - [Essentials: Pointer Power! - Computerphile](https://www.youtube.com/watch?v=t5NszbIerYc)
+    - [why can't computers read source code?](https://www.youtube.com/watch?v=2y1IgW2T8bo)
 - ### Articles
     - [Ownership In Rust](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
     - [Scheduling In Go](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
