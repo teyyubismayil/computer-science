@@ -78,6 +78,7 @@
 - ### Videos
     - [CAP Theorem Simplified | System Design Fundamentals](https://www.youtube.com/watch?v=BHqjEjzAicA)
 - ### Articles
+    - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
     - [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444)
     - [THE LIMITS OF THE SAGA PATTERN](https://www.ufried.com/blog/limits_of_saga_pattern)
     - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
