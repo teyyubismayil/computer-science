@@ -80,6 +80,7 @@
 - ### Articles
     - [Borg, Omega, and Kubernetes](https://queue.acm.org/detail.cfm?id=2898444)
     - [THE LIMITS OF THE SAGA PATTERN](https://www.ufried.com/blog/limits_of_saga_pattern)
+    - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
 ## Databases
 - ### Videos
