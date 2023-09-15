@@ -40,6 +40,7 @@
     - [CPU vs GPU (What's the Difference?) - Computerphile](https://www.youtube.com/watch?v=_cyVDoyI6NE)
     - [Spectre & Meltdown - Computerphile](https://www.youtube.com/watch?v=I5mRwzVvFGE)
 - ### Articles
+    - [Putting the “You” in CPU](https://cpu.land/)
     - [Shared memory - Wiki](https://en.wikipedia.org/wiki/Shared_memory)
     - [Non-uniform memory access - Wiki](https://en.wikipedia.org/wiki/Non-uniform_memory_access)
     - [Cache coherence](https://en.wikipedia.org/wiki/Cache_coherence)
