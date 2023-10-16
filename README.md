@@ -48,6 +48,7 @@
 
 ## OS
 - [CPU modes - Wiki](https://en.wikipedia.org/wiki/CPU_modes)
+- [vdso](https://man7.org/linux/man-pages/man7/vdso.7.html)
 
 ## Storage
 - ### Videos
