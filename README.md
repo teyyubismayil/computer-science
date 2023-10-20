@@ -58,6 +58,7 @@
     - [Zero Size Files - Computerphile](https://www.youtube.com/watch?v=kiTTAbeqQKY)
 - ### Articles
     - [Fragmentation](https://en.wikipedia.org/wiki/Fragmentation_(computing))
+    - [Asynchronous I/O](https://en.wikipedia.org/wiki/Asynchronous_I/O)
 
 ## Programming
 - ### Videos
