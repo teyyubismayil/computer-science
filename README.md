@@ -97,6 +97,9 @@
 ## Mixed
 - [Compendium](https://www.destroyallsoftware.com/compendium)
 
+## Java
+- [How does the default hashCode() work?](https://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html)
+
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
 - [System bus - Wiki](https://en.wikipedia.org/wiki/System_bus)
