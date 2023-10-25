@@ -77,6 +77,10 @@
     - [Count–min sketch](https://en.wikipedia.org/wiki/Count%E2%80%93min_sketch)
     - [HyperLogLog: A Simple but Powerful Algorithm for Data Scientists](https://chengweihu.com/hyperloglog/)
 
+## Network
+- ### Articles
+  - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols)
+
 ## Distributed systems
 - ### Videos
     - [CAP Theorem Simplified | System Design Fundamentals](https://www.youtube.com/watch?v=BHqjEjzAicA)
@@ -89,6 +93,9 @@
 ## Databases
 - ### Videos
     - [Stop using COUNT(id) to count rows](https://www.youtube.com/watch?v=H6juZ8c_Nu8)
+
+## Mixed
+- [Compendium](https://www.destroyallsoftware.com/compendium)
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
