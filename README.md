@@ -102,6 +102,8 @@
 
 ## SRE
 - [Understanding Prometheus Range Vectors](https://satyanash.net/software/2021/01/04/understanding-prometheus-range-vectors.html)
+- [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work/)
+- [Rate then sum, never sum then rate](https://www.robustperception.io/rate-then-sum-never-sum-then-rate/)
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
