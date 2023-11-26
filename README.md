@@ -100,6 +100,7 @@
 
 ## Java
 - [How does the default hashCode() work?](https://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html)
+- [Inside the Java Virtual Machine - The Java Stack](https://www.artima.com/insidejvm/ed2/jvm8.html)
 
 ## Heap
 - [Disk Access](https://www.geeksforgeeks.org/difference-between-seek-time-and-disk-access-time-in-disk-scheduling)
