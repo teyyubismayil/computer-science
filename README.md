@@ -81,6 +81,8 @@
 ## Network
 - ### Articles
   - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols)
+- ### Videos
+  - [Subnet mask](https://www.youtube.com/watch?v=eHV1aOnu7oM)
 
 ## Distributed systems
 - ### Videos
