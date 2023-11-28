@@ -81,6 +81,7 @@
 ## Network
 - ### Articles
   - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols)
+  - [What is a subnet?](https://www.cloudflare.com/learning/network-layer/what-is-a-subnet/)
 - ### Videos
   - [Subnet mask](https://www.youtube.com/watch?v=eHV1aOnu7oM)
 
