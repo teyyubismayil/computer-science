@@ -95,6 +95,8 @@
     - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 
 ## Databases
+- ### Articles
+    - [Why Uber Engineering Switched from Postgres to MySQL](https://uber.com/blog/postgres-to-mysql-migration/)
 - ### Videos
     - [Stop using COUNT(id) to count rows](https://www.youtube.com/watch?v=H6juZ8c_Nu8)
 
