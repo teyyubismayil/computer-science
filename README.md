@@ -97,6 +97,7 @@
 ## Databases
 - ### Articles
     - [Why Uber Engineering Switched from Postgres to MySQL](https://uber.com/blog/postgres-to-mysql-migration/)
+    - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
 - ### Videos
     - [Stop using COUNT(id) to count rows](https://www.youtube.com/watch?v=H6juZ8c_Nu8)
 
