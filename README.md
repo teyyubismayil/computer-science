@@ -106,6 +106,7 @@
 ## Mixed
 - [Compendium](https://www.destroyallsoftware.com/compendium)
 - [School of SRE](https://linkedin.github.io/school-of-sre/level101/linux_basics/intro/)
+- [Unlocking Kafka's Potential: Tackling Tail Latency with eBPF](https://blog.allegro.tech/2024/03/kafka-performance-analysis.html)
 
 ## Java
 - [How does the default hashCode() work?](https://srvaroa.github.io/jvm/java/openjdk/biased-locking/2017/01/30/hashCode.html)
