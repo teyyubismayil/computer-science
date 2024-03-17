@@ -101,6 +101,7 @@
 - ### Articles
     - [Why Uber Engineering Switched from Postgres to MySQL](https://uber.com/blog/postgres-to-mysql-migration/)
     - [How Postgres Makes Transactions Atomic](https://brandur.org/postgres-atomicity)
+    - [Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine](https://www.rudderstack.com/blog/why-rudderstack-used-postgres-over-apache-kafka-for-streaming-engine/)
 - ### Videos
     - [Stop using COUNT(id) to count rows](https://www.youtube.com/watch?v=H6juZ8c_Nu8)
 
